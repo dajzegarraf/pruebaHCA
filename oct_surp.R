@@ -30,6 +30,7 @@ modelo_carrera_estable <-declare_model(
     Y_time_3 = rbinom(N, size = 1, prob = prefs_A + 2 * tendencia)
   ) 
 
+########## comentario 1 + comentario 2
 
 m<-modelo_carrera_estable()
 
