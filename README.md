@@ -1,3 +1,7 @@
 # pruebaHCA
  Repositorio de prueba para el Taller Haciendo Ciencia Abierta (HCA)
-hola mundo!
+  
+   hola mundo!
+
+
+Día 2 del taller 
